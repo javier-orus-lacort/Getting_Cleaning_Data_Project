@@ -185,7 +185,7 @@ The Variables in our tidy data set **tidy_1** are:
 
  1. "activity"  
                 - Description: Activity performed by the Subject  
-                - Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDIN, LAYING  
+                - Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING  
                 
  2. "subject"  
                 - Description: Subject that performs the Activity  
